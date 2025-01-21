@@ -34,7 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Xi Zheng**, Zhuoyang Li, Xinning Gui, Yuhan Luo
 
-_Proc. of the ACM Conference on Human Factors in Computing Systems (CHI' 25)._
+_Proc. of the ACM Conference on Human Factors in Computing Systems (CHI' 25)_.
 </div>
 </div>
 
