@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hiii
+I am a Ph.D. student in the Department of Computer Science at the BiWell Lab, City University of Hong Kong, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). My research interests include conversational agents, multimodal human-AI interaction, emotional AI, healthcare applications of AI, and affective computing. Currently, I am focusing on exploring multimodal emotion expression for AI-powered chatbots.
 
 # News
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted at CHI’25.
@@ -35,15 +35,16 @@ LLM-Powered Chatbots. _In CHI Conference on Human Factors in Computing Systems (
 </div>
 
 # Educations
-- *2024.09 - Now*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.08 - 2024.01*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.09 - 2022.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Now*, PhD, Computer Science, City University of Hong Kong
+- *2022.08 - 2024.01*, Msc, Statistics, National University of Singapore
+- *2018.09 - 2022.06*, Bsc, Double Majors in Mathematics and Statistics, Minor in Computer Science, University of Toronto
 
 # Working Experience
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.02 - 2024.09*, Research Assistant, BiWell Lab, City University of Hong Kong, Hong Kong SAR.
+- *2023.09 - 2023.12*, Data Scientist Intern, Decision Science, Bayer, Beijing, China.
+- *2021.06 - 2021.08*, Data Analyst Intern, Infrastructure Solutions Group, Lenovo, Beijing, China.
 
 
 # Academic Services
-- *2024.3* Student Volunteer Chair for [GBA Pre-Chi](https://gbahci.com/prechi/)
+- *2024.09 - 2024.12* Teaching assistant of [CS1102](https://www.cityu.edu.hk/catalogue/ug/current/course/CS1102.htm): Introduction to Computer Studies. 
+- *2024.03* Student Volunteer Chair for [GBA Pre-Chi](https://gbahci.com/prechi/).
