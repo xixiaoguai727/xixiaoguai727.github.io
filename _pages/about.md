@@ -17,7 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in the Department of Computer Science at the BiWell Lab, City University of Hong Kong, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). My research interests include conversational agents, multimodal human-AI interaction, emotional AI, healthcare applications of AI, and affective computing. Currently, I am focusing on exploring multimodal emotion expression for AI-powered chatbots.
+I am a Ph.D. student in the Department of Computer Science at the BiWell Lab, City University of Hong Kong, supervised by [Dr. Yuhan Luo](https://yuhanlolo.github.io/me/). 
+
+My research interests include conversational agents, multimodal human-AI interaction, emotional AI, healthcare applications of AI, and affective computing. 
+
+Currently, I am focusing on exploring multimodal emotion expression for AI-powered chatbots.
 
 # News
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted at CHI’25.
