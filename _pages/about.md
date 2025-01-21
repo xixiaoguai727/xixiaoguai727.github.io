@@ -29,9 +29,8 @@ Hiii
 
 [Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Xi Zheng**, Zhuoyang Li, Xinning Gui, Yuhan Luo
-
-_Proc. of the ACM Conference on Human Factors in Computing Systems (CHI' 25)_.
+**Xi Zheng**, Zhuoyang Li, Xinning Gui, Yuhan Luo. 2025. Customizing Emotional Support: How Do Individuals Construct and Interact With
+LLM-Powered Chatbots. _In CHI Conference on Human Factors in Computing Systems (CHI ’25)_. (To appear)
 </div>
 </div>
 
