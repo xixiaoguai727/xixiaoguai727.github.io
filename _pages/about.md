@@ -33,7 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 [Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Xi Zheng**, Zhuoyang Li, Xinning Gui, Yuhan Luo
-Proc. of the ACM Conference on Human Factors in Computing Systems (CHI' 25).
+
+_Proc. of the ACM Conference on Human Factors in Computing Systems (CHI' 25)._
 </div>
 </div>
 
