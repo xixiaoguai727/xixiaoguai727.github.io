@@ -24,7 +24,7 @@ My research interests include conversational agents, multimodal human-AI interac
 Currently, I am focusing on exploring multimodal emotion expression for AI-powered chatbots.
 
 # News
-- *2025.01*: &nbsp;🎉🎉 One paper was accepted at CHI’25.
+- *2025.01*: &nbsp;🎉 One paper was accepted at CHI’25.
 
 # Publications 
 
