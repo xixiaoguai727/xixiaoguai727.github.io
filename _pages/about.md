@@ -29,7 +29,7 @@ Hi👋, I am a Ph.D. student in the Department of Computer Science at the BiWell
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI'25</div><img src='images/chatbot_interface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots](https://yuhanlolo.github.io/me/publication.html)
+[Customizing Emotional Support: How Do Individuals Construct and Interact With LLM-Powered Chatbots](https://yuhanlolo.github.io/me/papers/chi25-chatlab-zheng.pdf)
 
 **Xi Zheng**, Zhuoyang Li, Xinning Gui, Yuhan Luo. 2025. Customizing Emotional Support: How Do Individuals Construct and Interact With
 LLM-Powered Chatbots. _In CHI Conference on Human Factors in Computing Systems (CHI ’25)_. (To appear)
